@@ -1,0 +1,9 @@
+Attendance policy requires 75% attendance.
+
+Semester fee for CSE is 85000 rupees.
+
+DBMS subject is taught by Dr Sharma.
+
+Hostel timing is 10 PM.
+
+Exams start from December 10.
